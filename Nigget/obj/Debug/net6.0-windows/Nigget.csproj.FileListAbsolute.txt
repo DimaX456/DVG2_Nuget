@@ -1,0 +1,12 @@
+C:\Users\slgwt\source\repos\Nigget\bin\Debug\net6.0-windows\Nigget.deps.json
+C:\Users\slgwt\source\repos\Nigget\bin\Debug\net6.0-windows\Nigget.dll
+C:\Users\slgwt\source\repos\Nigget\bin\Debug\net6.0-windows\Nigget.pdb
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.csproj.AssemblyReference.cache
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.AssemblyInfoInputs.cache
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.AssemblyInfo.cs
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.csproj.CoreCompileInputs.cache
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.dll
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\refint\Nigget.dll
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\Nigget.pdb
+C:\Users\slgwt\source\repos\Nigget\obj\Debug\net6.0-windows\ref\Nigget.dll
